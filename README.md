@@ -1,5 +1,6 @@
 # Coding-Raja-Technologies-Internship
 This is a music player application for users to listen to their favorite music tracks.
+
 Features:
 1.Playlist Management: Allow users to create and manage playlists
 2.Music Library: Display a library of available tracks with album covers and artist names
